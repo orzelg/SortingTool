@@ -1,0 +1,47 @@
+content:
+- Switch statement
+- Calling a method
+- Declaring a method
+- Functional decomposition
+- Integer types and operations
+- Primitive and reference types
+- Arrays as parameters
+- Iterating over arrays
+- Errors in programs
+- What is an exception
+- NPE
+- Defining classes
+- The main method
+- Instance methods
+- Constructor
+- Package
+- Getters and setters
+- The while and do-while loops
+- Objects
+- Interface
+- Boxing and unboxing
+- Command-line arguments
+- What are collections
+- The Collections Framework overview
+- ArrayList
+- The List interface
+- Comparable
+- Processing strings
+- Floating-point types
+- Overloading
+- Multiple constructors
+- The keyword super
+- Static members
+- Hiding and overriding
+- Polymorphism
+- Enums in Java
+- Fields and methods in enum
+- Anonymous classes
+- Default methods
+- Lambda expressions
+- Comparator
+- The Set interface
+- The Map interface
+- Hierarchy of exceptions
+- Exception handling
+- Files
